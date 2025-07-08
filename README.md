@@ -4,10 +4,10 @@
 
 ## ⚡ Features
 
-- Swipe to like or skip products  
+- Swipe or like or skip products  
 - AI-powered personalized recommendations  
 - "Discover My Vibe" mode for quick onboarding  
-- Dark mode & responsive UI  
+- Responsive UI  
 
 ## 🚀 Getting Started
 
